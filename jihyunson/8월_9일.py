@@ -12,3 +12,4 @@ def ta(scores):
     total_average = total_score/len(scores)
     return total_score, total_average
 print ta(scores)
+

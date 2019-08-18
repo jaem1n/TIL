@@ -12,3 +12,7 @@ GitHub을 이용하면 원격으로 접속 가능한 저장소를 확보할 수 
 ## 참고 자료
 
 [소프트웨어 개발 Workflow for Team](http://j.mp/2Gqo9uA)
+
+## Git 이전 커밋 표기법
+
+<https://github.com/dataitgirls3/TIL/pull/135#discussion_r314199365>
